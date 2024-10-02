@@ -33,5 +33,5 @@ El backend utiliza MongoDB para almacenar la información. Las siguientes colecc
 
 1. **Clonar el repositorio**:
  ```bash
- git clone <https://github.com/Yesikaa1218/Seminario_1.git>
+ git clone <https://github.com/Yesikaa1218/Servicio-de-Fletes.git>
  cd servicio-de-fletes
