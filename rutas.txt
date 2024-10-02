@@ -1,0 +1,3 @@
+MTY,MRS,4321.0,Andre Gignac,
+TRR,SLP,3000.0,Ricardo Resendiz,
+HOUSTON,DALLAS,4001.5,Genaro Osoria,
